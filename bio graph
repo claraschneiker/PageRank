@@ -1,0 +1,2 @@
+import pandas as pd
+df = pd.read_csv("STATIC_PPIN.txt", index_col=False, names=columns)
